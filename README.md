@@ -1,4 +1,4 @@
-# PROJECTNAME
+# HOMELAB
 
 ## Objective
 [Brief Objective - Remove this afterwards]
