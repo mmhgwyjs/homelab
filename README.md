@@ -29,3 +29,4 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+![image](https://github.com/mmhgwyjs/homelab/assets/159692853/b6783a97-949b-4500-b90f-115d35eb9a07)
