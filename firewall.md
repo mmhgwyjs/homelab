@@ -20,7 +20,7 @@ Develop and deploy a focused firewall lab environment to provide practical train
 
 ## Steps
 
-1. <a href="https://github.com/mmhgwyjs/firewall/blob/main/Overview%20and%20Installation.md">Overview and Installation</a>
+1. <a href="https://github.com/mmhgwyjs/homelab/blob/main/firewall.md#opnsense-overview-and-installation">Overview and Installation</a>
 2. Initial Setup and Configuration
 3. 
 
