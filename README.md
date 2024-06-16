@@ -4,18 +4,14 @@
 
 This project aims to provide practical experience in deploying, securing, and managing IT infrastructures, emphasizing skills in cybersecurity, automation, and cloud computing essential for modern enterprises.
 
-## Labs
+## Configurations
 
-- Network Security Lab
-- Windows Lab
-- Linux Lab
-- Detection Lab
-- Automation Lab
-- Malware Analysis Lab
-- Forensics Lab
-- PenTest Lab
-- Email Lab
-- Cloud Lab
+- Firewall
+- Windows
+- Active Directory
+- Linux
+- SIEM
+- SOAR
 
 ## Initial Setup
 
