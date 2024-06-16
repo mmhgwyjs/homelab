@@ -12,6 +12,7 @@ This project aims to provide practical experience in deploying, securing, and ma
 - Linux
 - SIEM
 - SOAR
+- Cloud
 
 ## Initial Setup
 
