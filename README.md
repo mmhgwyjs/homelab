@@ -1,6 +1,6 @@
 # HOME LAB
 
-> Please note that this project is ongoing and intended for learning purposes only. Any feedback would be appreciated.
+> Please note that this project is ongoing and is meant solely for learning purposes. Your feedback would be greatly appreciated, as I am using this opportunity to learn.
 
 ## Objective
 
