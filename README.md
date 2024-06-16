@@ -1,12 +1,14 @@
 # HOME LAB
 
+> Please note that this project is ongoing and intended for learning purposes only. Any feedback would be appreciated.
+
 ## Objective
 
 This project aims to provide practical experience in deploying, securing, and managing IT infrastructures, emphasizing skills in cybersecurity, automation, and cloud computing essential for modern enterprises.
 
 ## Configurations
 
-- Firewall
+- [Firewall](https://github.com/mmhgwyjs/home-lab/blob/main/firewall.md)
 - Windows
 - Active Directory
 - Linux
@@ -17,6 +19,7 @@ This project aims to provide practical experience in deploying, securing, and ma
 ## Initial Setup
 
 ### Hypervisor
+
 - [VMware Workstation Pro](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html44)
   
   > To download, you will need an account on Broadcom.
