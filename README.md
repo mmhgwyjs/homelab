@@ -17,11 +17,20 @@ This project aims to provide practical experience in deploying, securing, and ma
 - Email Lab
 - Cloud Lab
 
+## Initial Setup
+
+### Hypervisor
+- [VMware Workstation Pro](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html44)
+  
+  > To download, you will need an account on Broadcom.
+  
+- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+  
+  > I used to use VirtualBox, but now that Workstation Pro is free for personal use, I have switched to it, and I have liked it so far.
 
 
 
+## Network Diagram
 
-Example below.
+![image](https://github.com/mmhgwyjs/homelab/assets/159692853/4b039964-78d3-4497-ac90-3d7e21af846a)
 
-*Ref 1: Network Diagram*
-![image](https://github.com/mmhgwyjs/homelab/assets/159692853/b6783a97-949b-4500-b90f-115d35eb9a07)
