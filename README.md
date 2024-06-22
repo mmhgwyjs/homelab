@@ -9,9 +9,9 @@ This project aims to provide practical experience in deploying, securing, and ma
 ## Configurations
 
 - [Firewall](https://github.com/mmhgwyjs/home-lab/blob/main/firewall.md)
-- Windows
-- Active Directory
-- Linux
+- Windows Client
+- Windows Server (Active Directory)
+- Kali Linux
 - SIEM
 - SOAR
 - Cloud
